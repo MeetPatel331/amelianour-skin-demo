@@ -23,7 +23,7 @@
  */
 
 export const COMPLEXION_CATEGORIES = ['foundation', 'concealer', 'skin-tint', 'setting-powder'];
-export const COLOUR_CATEGORIES = ['blush', 'bronzer', 'lipstick', 'lip', 'lip-oil', 'lip-gloss', 'highlighter', 'multi-use', 'brow'];
+export const COLOUR_CATEGORIES = ['blush', 'bronzer', 'lipstick', 'lip', 'lip-oil', 'lip-gloss', 'highlighter', 'multi-use', 'eyeshadow', 'mascara', 'eyeliner', 'brow'];
 
 const UNDERTONES = ['cool', 'neutral', 'warm', 'olive'];
 const WEIGHTS = { depth: 0.6, undertone: 0.25, pref: 0.15 };
@@ -201,7 +201,7 @@ function matchColour(products, skin, preferences, notes) {
       category,
       basis: 'preference',
       guidance,
-      options: sorted.slice(0, 2).map(({ product, shades }) => ({
+      options: sorted.slice(0, 3).map(({ product, shades }) => ({
         product: productSummary(product),
         shades: shades.slice(0, 6).map((s) => ({ id: s.id, name: s.name, finish: s.finish, image: s.image })),
       })),

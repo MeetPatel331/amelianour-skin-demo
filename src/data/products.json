@@ -9,8 +9,8 @@
     "depthScale": "1 (fairest) .. 10 (deepest); TENTATIVE/inferred from brand shade codes, not measured.",
     "undertoneNote": "Tentative where derivable from brand shade codes; null where not reliably known. Correctable by the user.",
     "labNote": "No calibrated reference Lab values available; lab is null for every shade and never invented.",
-    "productCount": 25,
-    "shadeCount": 168,
+    "productCount": 57,
+    "shadeCount": 267,
     "generatedBy": "data/build-products.mjs"
   },
   "products": [
@@ -4220,6 +4220,2792 @@
       "source": {
         "shopifyProductId": 4637506273373,
         "handle": "nutri-bronze-adaptive-sheer-tinted-serum",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "redimension-daily-glow-palette",
+      "title": "ReDimension Daily Glow Palette",
+      "brand": "RMS Beauty",
+      "category": "highlighter",
+      "use": null,
+      "description": "Discover your everyday glow with the RMS Beauty ReDimension Daily Glow Palette, a versatile four-shade palette designed to illuminate, brighten and add soft dimension to the complexion. Powered by RMS Beauty’s innovative Gel2Powder technology, each light-reflective shade glides effortlessly onto skin with the smooth feel of a cream and lasting finish of a po",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RMS-DailyGlowPalette.png?v=1788704572",
+      "price": 69,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "redimension-daily-glow-palette-redimension-daily-glow-palette",
+          "name": "ReDimension Daily Glow Palette",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 69,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55649807204728,
+            "sku": "UK100445"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15052288721272,
+        "handle": "redimension-daily-glow-palette",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "real-color-eyeshadow-palette-02-smokey-sea",
+      "title": "Real Color Eyeshadow Palette - 02 Smokey Sea",
+      "brand": "Korres",
+      "category": "eyeshadow",
+      "use": null,
+      "description": "Create endless eye looks with the Korres Real Color Eyeshadow Palette. Featuring four richly pigmented matte and metallic shades, this ultra-creamy palette glides on effortlessly with one stroke and blends seamlessly for a soft daytime look or a more defined evening finish. Enriched with Volcanic Minerals and Natural Origin Esters, the formula helps smooth a",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RealColorEyeshadowPalette-02SmokeySea.png?v=1784023835",
+      "price": 46,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "real-color-eyeshadow-palette-02-smokey-sea-real-color-eyeshadow-palette-02-smokey-sea",
+          "name": "Real Color Eyeshadow Palette - 02 Smokey Sea",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 46,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55600098574712,
+            "sku": "UK100450"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15039099863416,
+        "handle": "real-color-eyeshadow-palette-02-smokey-sea",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "lip-balm-no-240-sigrid",
+      "title": "Lip Balm - No.240 Sigrid",
+      "brand": "Le Rouge Français",
+      "category": "lip",
+      "use": null,
+      "description": "Discover a luminous wash of colour with this creamy, buildable lip balm, inspired by the shimmering hues of the aurora borealis. Infused with naturally derived pigments from French madder root, it delivers a radiant pink with delicate icy mauve reflects while nourishing and comforting the lips. Crafted with botanical ingredients and free from petrochemical c",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipBalm-No.240Sigrid.png?v=1784022927",
+      "price": 27,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "lip-balm-no-240-sigrid-lip-balm-no-240-sigrid",
+          "name": "Lip Balm - No.240 Sigrid",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": false,
+          "priceDemo": 27,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55600094740856,
+            "sku": "UK100452"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15039095144824,
+        "handle": "lip-balm-no-240-sigrid",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "cashmere-matte-eyelights-various-shades",
+      "title": "Cashmere Matte Eyelights (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "eyeshadow",
+      "use": null,
+      "description": "Create effortlessly sophisticated eye looks with RMS Beauty Cashmere Matte Eyelights. These long-wearing cream eyeshadows combine rich, buildable colour with a cashmere-soft matte pearl finish that lasts for up to eight hours without creasing. Infused with skin-loving ingredients including organic green tea extract, natural peptide quinoa extract and ethical",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CashmereMatteEyelights_Mallo_Coast.png?v=1785356482",
+      "price": 31,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "cashmere-matte-eyelights-various-shades-desert-rose",
+          "name": "Desert Rose",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714421624,
+            "sku": "UK100470"
+          }
+        },
+        {
+          "id": "cashmere-matte-eyelights-various-shades-canyon-clay",
+          "name": "Canyon Clay",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714454392,
+            "sku": "UK100471"
+          }
+        },
+        {
+          "id": "cashmere-matte-eyelights-various-shades-mossy-stone",
+          "name": "Mossy Stone",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714487160,
+            "sku": "UK100472"
+          }
+        },
+        {
+          "id": "cashmere-matte-eyelights-various-shades-mountain-mist",
+          "name": "Mountain Mist",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714519928,
+            "sku": "UK100473"
+          }
+        },
+        {
+          "id": "cashmere-matte-eyelights-various-shades-tundra-taupe",
+          "name": "Tundra Taupe",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714552696,
+            "sku": "UK100474"
+          }
+        },
+        {
+          "id": "cashmere-matte-eyelights-various-shades-dusty-trail",
+          "name": "Dusty Trail",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714585464,
+            "sku": "UK100475"
+          }
+        },
+        {
+          "id": "cashmere-matte-eyelights-various-shades-mallo-coast",
+          "name": "Mallo Coast",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714618232,
+            "sku": "UK100476"
+          }
+        },
+        {
+          "id": "cashmere-matte-eyelights-various-shades-wildflower",
+          "name": "Wildflower",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598714651000,
+            "sku": "UK100477"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15038674534776,
+        "handle": "cashmere-matte-eyelights-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "drama-curl-mascara-black",
+      "title": "Drama Curl Mascara - Black",
+      "brand": "Korres",
+      "category": "mascara",
+      "use": null,
+      "description": "From KORRES, this curl-sculpting mascara is designed to deliver an instant lash lift effect with long-lasting hold. The curved brush expertly lifts and shapes each lash, creating a visibly fuller, curled finish without stiffness. Infused with Volcanic Minerals to condition and support lash health, alongside a targeted 2% Peptide and Vitamin Complex, it helps",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/DramaCurlMascaraBrown.png?v=1777361707",
+      "price": 31,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "drama-curl-mascara-black-drama-curl-mascara-black",
+          "name": "Drama Curl Mascara - Black",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540972978552,
+            "sku": "UK100368"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15023317025144,
+        "handle": "drama-curl-mascara-black",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "drama-volume-mascara-various-shades",
+      "title": "Drama Volume Mascara (Various Shades)",
+      "brand": "Korres",
+      "category": "mascara",
+      "use": null,
+      "description": "From KORRES, this high-impact volumising mascara is powered by natural-origin ingredients and advanced lash-conditioning actives. Designed with a dense, sculpting brush, it coats each lash from root to tip to create visibly longer, fuller and more defined lashes. Enriched with Volcanic Minerals—known for their conditioning properties—and a targeted 2% Peptid",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/VolumeMascaraBlack_2.png?v=1777324323",
+      "price": 31,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "drama-volume-mascara-various-shades-01-black",
+          "name": "01 Black",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540971405688,
+            "sku": "UK100369"
+          }
+        },
+        {
+          "id": "drama-volume-mascara-various-shades-02-plum-brown",
+          "name": "02 Plum Brown",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 31,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540971438456,
+            "sku": "UK100370"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15023316795768,
+        "handle": "drama-volume-mascara-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "solid-colour-eyeliner-pencil-various-shades",
+      "title": "Solid Colour Eyeliner Pencil (Various Shades)",
+      "brand": "Korres",
+      "category": "eyeliner",
+      "use": null,
+      "description": "From KORRES, this creamy eyeliner pencil delivers rich, long-wearing definition in a single stroke. The smooth, blend-able texture glides effortlessly across the lash line, offering precise application with lasting comfort. Infused with Volcanic Minerals to help condition, alongside natural emollients including skin-loving waxes and oils, it ensures a soft, ",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Eyeliner-Black_4.png?v=1777324377",
+      "price": 26,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "solid-colour-eyeliner-pencil-various-shades-01-black",
+          "name": "01 Black",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Eyeliner-Black_2.png?v=1777324377",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540961837432,
+            "sku": "UK100377"
+          }
+        },
+        {
+          "id": "solid-colour-eyeliner-pencil-various-shades-02-brown",
+          "name": "02 Brown",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Eyeliner-Brown_3.png?v=1777324377",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540961870200,
+            "sku": "UK100378"
+          }
+        },
+        {
+          "id": "solid-colour-eyeliner-pencil-various-shades-03-olive-green",
+          "name": "03 Olive Green",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Eyeliner-OliveGreen_572d64eb-92bc-44e2-a02b-ae832b64e5c0.png?v=1777324377",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540961902968,
+            "sku": "UK100379"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15023314731384,
+        "handle": "solid-colour-eyeliner-pencil-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "redimension-hydra-eyes-quartet-various-shades",
+      "title": "ReDimension Hydra Eyes Quartet (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "eyeshadow",
+      "use": null,
+      "description": "Create beautifully defined, luminous eyes with ReDimension Hydra Eyes Quartet, a versatile eyeshadow palette that combines rich pigment with nourishing, hydrating skincare benefits. Each quartet features four complementary shades in matte, shimmer and satin finishes that blend effortlessly for endless looks — from natural definition to soft glamour. Formulat",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReDimensionHydraEyesQuartet_WildVelvet_2.png?v=1776688218",
+      "price": 49,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "redimension-hydra-eyes-quartet-various-shades-rebel-glow",
+          "name": "Rebel Glow",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReDimensionHydraEyesQuartet_RebelGlow_2.png?v=1776689196",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55498956374392,
+            "sku": "UK100320"
+          }
+        },
+        {
+          "id": "redimension-hydra-eyes-quartet-various-shades-wild-velvet",
+          "name": "Wild Velvet",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReDimensionHydraEyesQuartet_WildVelvet_2.png?v=1776688218",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55498956407160,
+            "sku": "UK100321"
+          }
+        },
+        {
+          "id": "redimension-hydra-eyes-quartet-various-shades-midnight-bloom",
+          "name": "Midnight Bloom",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReDimensionHydraEyesQuartet_CelestialDream_2.png?v=1776689196",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55498956439928,
+            "sku": "UK100322"
+          }
+        },
+        {
+          "id": "redimension-hydra-eyes-quartet-various-shades-celestial-dream",
+          "name": "Celestial Dream",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Hydra_Eyes_Quartet-810170741555-PEP4-Celestial_Dream-Pack-Shot-NS-PNG-2000x2000.png?v=1788696763",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55649805566328,
+            "sku": null
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15012757045624,
+        "handle": "redimension-hydra-eyes-quartet-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "a-la-rose-lip-nail-balm",
+      "title": "A La Rose Lip & Nail Balm",
+      "brand": "Kure Bazaar",
+      "category": "lip",
+      "use": null,
+      "description": "The Rose Nail Balm is a multi purpose balm rich in nourishing ingredients designed to repair weakened nails, soften cuticles, and restore shine and suppleness. Infused with rose extracts, it delivers lasting softness and hydration while enhancing the natural beauty of nails and lips. With its clean, care focused formulation, this balm provides intensive nour",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lipandnailbalm.png?v=1724702507",
+      "price": 37,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "a-la-rose-lip-nail-balm-a-la-rose-lip-and-nail-balm",
+          "name": "A La Rose Lip & Nail Balm",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44570852917486,
+            "sku": "KUR029"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8213823193326,
+        "handle": "a-la-rose-lip-nail-balm",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "mini-avocado-waterproof-mascara-black",
+      "title": "Mini Avocado Waterproof Mascara - Black",
+      "brand": "Ere Perez",
+      "category": "mascara",
+      "use": null,
+      "description": "A world-first vegan waterproof mascara since 2005, now in a mini size for on-the-go touch-ups. This makeup bag essential delivers smudge-proof, tear-proof, waterproof lashes in a travel-friendly tube, featuring the same lash-defining brush as the full size. Powered by nourishing avocado and mamey oils, it helps condition lashes, support healthy-looking growt",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/EP-MiniWaterproofMascara.png?v=1760617511",
+      "price": 16,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "mini-avocado-waterproof-mascara-black-mini-avocado-waterproof-mascara-black",
+          "name": "Mini Avocado Waterproof Mascara - Black",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 16,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55319762108792,
+            "sku": "UK100039"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14977819738488,
+        "handle": "mini-avocado-waterproof-mascara-black",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "almond-brow-pencil-perfect",
+      "title": "Almond Brow Pencil Perfect",
+      "brand": "Ere Perez",
+      "category": "brow",
+      "use": null,
+      "description": "Sweet almond oil helps protect brow hairs while nourishing the skin beneath and around the brows, making this pencil a go-to for effortless definition with a naturally smooth finish. The easy-glide formula lets you lightly fill and shape sparse areas for brows that look fuller but never overdone, while the built-in grooming brush tidies flyaways and blends c",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/AlmondBrowPencil.png?v=1750763359",
+      "price": 30,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "almond-brow-pencil-perfect-perfect",
+          "name": "Perfect",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55487407063416,
+            "sku": "UK100307"
+          }
+        },
+        {
+          "id": "almond-brow-pencil-perfect-polished",
+          "name": "Polished",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55487407096184,
+            "sku": "UK100308"
+          }
+        },
+        {
+          "id": "almond-brow-pencil-perfect-pristine",
+          "name": "Pristine",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55487407128952,
+            "sku": "UK100309"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14938418053496,
+        "handle": "almond-brow-pencil-perfect",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "a-ai-lip-pencil-various-shades",
+      "title": "Açai Lip Pencil",
+      "brand": "Ere Perez",
+      "category": "lip",
+      "use": null,
+      "description": "Deliver precise definition and naturally fuller-looking lips with Acai Lip Pencils. The creamy, smooth-gliding formula layers comfortably to shape and enhance, while conditioning ingredients including açai berry, vitamins A and C, coconut oil, and vitamin E help keep lips feeling soft, smooth, and hydrated. Wear alone for an effortless soft-matte look or pai",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Acai_Lip_Pencil_-_KISS.png?v=1750758892",
+      "price": 30,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "a-ai-lip-pencil-various-shades-kiss",
+          "name": "Kiss",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Acai_Lip_Pencil_-_KISS.png?v=1750758892",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55176412856696,
+            "sku": "UK100048"
+          }
+        },
+        {
+          "id": "a-ai-lip-pencil-various-shades-naughty",
+          "name": "Naughty",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Acai_Lip_Pencil_-_NAUGHTY.png?v=1750758808",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55176429666680,
+            "sku": "UK100049"
+          }
+        },
+        {
+          "id": "a-ai-lip-pencil-various-shades-pout",
+          "name": "Pout",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Acai_Lip_Pencil_-_POUT.png?v=1750758796",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55176429699448,
+            "sku": "UK100050"
+          }
+        },
+        {
+          "id": "a-ai-lip-pencil-various-shades-shy",
+          "name": "Shy",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Acai_Lip_Pencil_-_SHY.png?v=1750758802",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55176429732216,
+            "sku": "UK100051"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14938388824440,
+        "handle": "a-ai-lip-pencil-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "wonder-blading-lip-stain-masque",
+      "title": "Wonder Blading Lip Stain Masque",
+      "brand": "Wonderskin",
+      "category": "lipstick",
+      "use": null,
+      "description": "Discover stunning, no fade lip colour with Wonderskin’s high tech vegan formula, designed to deliver long lasting, touch up free results while keeping lips soft and hydrated. From natural tints to bold statement shades, this innovative lip masque provides comfortable, alcohol free wear that hydrates rather than dries. The colour stays put without transferrin",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/lovely_636bccdc-41c4-4914-89f7-680da299ae46.png?v=1722436464",
+      "price": 24,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "wonder-blading-lip-stain-masque-crush",
+          "name": "Crush",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 24,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/crush_5d7619ad-ea2a-48c9-9a02-be35bf9351b0.png?v=1722436378",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45631876727022,
+            "sku": "WON016"
+          }
+        },
+        {
+          "id": "wonder-blading-lip-stain-masque-xoxo",
+          "name": "Xoxo",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 24,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/xoxo.png?v=1722436277",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45631876759790,
+            "sku": "WON013"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8627013189870,
+        "handle": "wonder-blading-lip-stain-masque",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "wonder-blading-peel-reveal-lip-stain-kit",
+      "title": "Wonder Blading Peel & Reveal Lip Stain Kit",
+      "brand": "Wonderskin",
+      "category": "lipstick",
+      "use": null,
+      "description": "Discover revolutionary, all day lip colour that is transfer proof, waterproof, and truly life proof. Wonderskin’s high tech vegan formula delivers ultra pigmented, no fade shades that stay put from morning to night while keeping lips soft and hydrated. The innovative two step system combines a powerful colour masque with an activator mist that locks pigment ",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/crush.png?v=1722433362",
+      "price": 37,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "wonder-blading-peel-reveal-lip-stain-kit-crush",
+          "name": "Crush",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/crush.png?v=1722433362",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45631767249134,
+            "sku": "WON003"
+          }
+        },
+        {
+          "id": "wonder-blading-peel-reveal-lip-stain-kit-glamorous",
+          "name": "Glamorous",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/glamourous.png?v=1722433311",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45631767380206,
+            "sku": "WON007"
+          }
+        },
+        {
+          "id": "wonder-blading-peel-reveal-lip-stain-kit-first-kiss",
+          "name": "First Kiss",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/first-kiss.png?v=1722433337",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45631767412974,
+            "sku": "WON002"
+          }
+        },
+        {
+          "id": "wonder-blading-peel-reveal-lip-stain-kit-bella",
+          "name": "Bella",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Bella.png?v=1722433234",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45631767478510,
+            "sku": "WON009"
+          }
+        },
+        {
+          "id": "wonder-blading-peel-reveal-lip-stain-kit-lovely",
+          "name": "Lovely",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45631767511278,
+            "sku": "WON010"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8626979766510,
+        "handle": "wonder-blading-peel-reveal-lip-stain-kit",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "pigmented-lipstick",
+      "title": "Pigmented Lipstick (Various Shades)",
+      "brand": "Le Rouge Français",
+      "category": "lipstick",
+      "use": null,
+      "description": "Indulge in Le Rouge Français lipsticks, crafted with powerful plant based pigments designed to enhance your lips’ natural tone and adapt to their unique pH level. This customisable formula can be layered to build intensity, allowing you to create anything from a sheer wash of colour to a more defined look. Enriched with nourishing botanical ingredients and h",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS030_d770734b-b85f-4885-a3b5-edc0fd815ea4.png?v=1724697648",
+      "price": 36,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "pigmented-lipstick-010-le-rouge-francias",
+          "name": "010 Le Rouge Francias",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/3770016006002_1.png?v=1720529341",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560452808942,
+            "sku": "LRF01"
+          }
+        },
+        {
+          "id": "pigmented-lipstick-011-le-rouge-alizarine",
+          "name": "011 Le Rouge Alizarine",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": false,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS011_2.png?v=1720537743",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560452841710,
+            "sku": "LRF02"
+          }
+        },
+        {
+          "id": "pigmented-lipstick-030-le-nude-castanea",
+          "name": "030 Le Nude Castanea",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS030_2.png?v=1720537743",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560452874478,
+            "sku": "LRF03"
+          }
+        },
+        {
+          "id": "pigmented-lipstick-033-le-nude-ne-tsabes",
+          "name": "033 Le Nude Neïtsabes",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS033_2.png?v=1720537743",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560452907246,
+            "sku": "LRF04"
+          }
+        },
+        {
+          "id": "pigmented-lipstick-034-le-nude-astera",
+          "name": "034 Le Nude Astera",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS034_2.png?v=1720537743",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560452940014,
+            "sku": "LRF05"
+          }
+        },
+        {
+          "id": "pigmented-lipstick-035-le-nude-zaatar",
+          "name": "035 Le Nude Zaatar",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": false,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS035_2.png?v=1720537743",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560452972782,
+            "sku": "LRF06"
+          }
+        },
+        {
+          "id": "pigmented-lipstick-040-le-rose-licandre",
+          "name": "040 Le Rose Licandre",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS040_2.png?v=1720537744",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560453005550,
+            "sku": "LRF07"
+          }
+        },
+        {
+          "id": "pigmented-lipstick-050-le-baume-nordgron",
+          "name": "050 Le Baume Nordgron",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BIOS050.png?v=1720537743",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45560453038318,
+            "sku": "LRF08"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8597732262126,
+        "handle": "pigmented-lipstick",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "vegan-matte-lipstick-various-colours",
+      "title": "Vegan Matte Lipstick (Various Colours)",
+      "brand": "Kure Bazaar",
+      "category": "lipstick",
+      "use": null,
+      "description": "Discover the timeless elegance of Kure Bazaar’s Matte Lipstick Couture, a bold and vibrant classic red designed to make a statement. Delivering rich pigmentation with a velvety matte finish, the formula offers impeccable coverage while remaining comfortable on the lips. Its creamy texture glides on effortlessly, while a nourishing blend of wild mango butter,",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Couture.png?v=1715859712",
+      "price": 42,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "vegan-matte-lipstick-various-colours-couture",
+          "name": "Couture",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Couture.png?v=1715859712",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705665052910,
+            "sku": "KUR050"
+          }
+        },
+        {
+          "id": "vegan-matte-lipstick-various-colours-tea-rose",
+          "name": "Tea Rose",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/TeaRose.png?v=1715854739",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705665085678,
+            "sku": "KUR051"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8485198987502,
+        "handle": "vegan-matte-lipstick-various-colours",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "vegan-satin-lipstick-various-colours",
+      "title": "Vegan Satin Lipstick (Various Colours)",
+      "brand": "Kure Bazaar",
+      "category": "lipstick",
+      "use": null,
+      "description": "Introducing Kure Bazaar Satin Lipstick Bacio, a universally flattering red orange shade designed to instantly enhance every complexion. With its radiant, highly pigmented finish, it brings life and warmth to even the most minimal makeup looks and pairs beautifully with Kure Bazaar’s Bacio nail polish for a coordinated, elegant effect. The Satin Lipstick form",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Bacio_9c5c77a7-4c53-4b5f-9e92-e8cbdccd2fe5.png?v=1715856525",
+      "price": 42,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "vegan-satin-lipstick-various-colours-bacio",
+          "name": "Bacio",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705667543278,
+            "sku": "KUR047"
+          }
+        },
+        {
+          "id": "vegan-satin-lipstick-various-colours-blush",
+          "name": "Blush",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705667576046,
+            "sku": "KUR048"
+          }
+        },
+        {
+          "id": "vegan-satin-lipstick-various-colours-so-vintage",
+          "name": "So Vintage",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705667608814,
+            "sku": "KUR049"
+          }
+        },
+        {
+          "id": "vegan-satin-lipstick-various-colours-hippie",
+          "name": "Hippie",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705667641582,
+            "sku": "KUR050"
+          }
+        },
+        {
+          "id": "vegan-satin-lipstick-various-colours-zoe",
+          "name": "Zoe",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705667674350,
+            "sku": "KUR051"
+          }
+        },
+        {
+          "id": "vegan-satin-lipstick-various-colours-bohemian",
+          "name": "Bohemian",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705668657390,
+            "sku": null
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8485163401454,
+        "handle": "vegan-satin-lipstick-various-colours",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "eco-friendly-vegan-refillable-satin-lipstick-various-shades",
+      "title": "Vegan Lip Balm (Various Colours)",
+      "brand": "Kure Bazaar",
+      "category": "lip",
+      "use": null,
+      "description": "Indulge in the luxurious Rouge Flore Lip Balm, a rich red tinted balm that combines sophisticated colour with nourishing care. This vegan formula is crafted with a powerful blend of super fruit ingredients, including wild mango butter, pomegranate, castor oil, and organic cranberry, to help nourish, protect, and soothe the lips. Lightweight yet deeply condit",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Rose_Flore.png?v=1715853338",
+      "price": 42,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "eco-friendly-vegan-refillable-satin-lipstick-various-shades-rouge-flore",
+          "name": "Rouge Flore",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": false,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Rose_Flore.png?v=1715853338",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705666167022,
+            "sku": "KUR-2"
+          }
+        },
+        {
+          "id": "eco-friendly-vegan-refillable-satin-lipstick-various-shades-macaron",
+          "name": "Macaron",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/macron.png?v=1715856098",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45705666199790,
+            "sku": "KUR-1"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8453652545774,
+        "handle": "eco-friendly-vegan-refillable-satin-lipstick-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "cacao-bronzing-pot-various-shades",
+      "title": "Cacao Bronzing Pot",
+      "brand": "Ere Perez",
+      "category": "bronzer",
+      "use": null,
+      "description": "A whipped, mousse-like cream bronzer, the Cacao Bronzing Pot melts effortlessly into skin to deliver a skin-like, semi-matte bronze with a sheer, sun-kissed glow, without any shimmer. Enriched with cacao seed butter, shea butter, and vitamin E, it nourishes as it warms, helping skin look hydrated, smooth, and healthy. Easy to apply with fingers, Bio All-Beau",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CacaoBronzingPots-Playa.png?v=1724342847",
+      "price": 47,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "cacao-bronzing-pot-various-shades-sol",
+          "name": "Sol",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 47,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CacaoBronzingPots-Sol.png?v=1724342846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44725161722094,
+            "sku": "EP013"
+          }
+        },
+        {
+          "id": "cacao-bronzing-pot-various-shades-playa",
+          "name": "Playa",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 47,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CacaoBronzingPots-Playa.png?v=1724342847",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44725161754862,
+            "sku": "EP014"
+          }
+        },
+        {
+          "id": "cacao-bronzing-pot-various-shades-costa",
+          "name": "Costa",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 47,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ErePerez-CacaoBronzingPot-Costa-WebCrop-SQ.jpg?v=1760612469",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55319731700088,
+            "sku": null
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8264223621358,
+        "handle": "cacao-bronzing-pot-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "rice-powder-blush-bronzer-brooklyn",
+      "title": "Rice Powder Blush & Bronzer - Brooklyn",
+      "brand": "Ere Perez",
+      "category": "blush",
+      "use": null,
+      "description": "This stunning blush-and-bronzer duo adds depth and a rosy, healthy-looking glow in one effortless step. The breathable, luxurious formula blends seamlessly for a silky finish and is gentle on sensitive skin, with an oil-absorbing rice starch base designed to help it stay put all day. Vitamin E and chamomile are blended in for a calming, brightening boost, wh",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RicePowder-Blush_Bronzer-Brooklyn.png?v=1736503148",
+      "price": 49,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "rice-powder-blush-bronzer-brooklyn-rice-powder-blush-and-bronzer-brooklyn",
+          "name": "Rice Powder Blush & Bronzer - Brooklyn",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44468665024750,
+            "sku": "EP064"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8180123730158,
+        "handle": "rice-powder-blush-bronzer-brooklyn",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "bio-retinol-glossy-lip-oil",
+      "title": "Bio-Retinol Glossy Lip Oil",
+      "brand": "Evolve Organic Beauty",
+      "category": "lip-oil",
+      "use": null,
+      "description": "Bio-Retinol Glossy Lip Oil delivers a luscious, glossy finish with natural plumping and hydrating benefits. Combining botanical oils like macadamia, apricot and raspberry with Bidens pilosa and oil-soluble hyaluronic acid, it nourishes and visibly plumps lips while supporting smooth, soft texture. The refreshing citrus and peppermint blend adds a clean, upli",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BioRetinolGlossyOil.png?v=1780679845",
+      "price": 24,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "bio-retinol-glossy-lip-oil-bio-retinol-glossy-lip-oil",
+          "name": "Bio-Retinol Glossy Lip Oil",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 24,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44414761435374,
+            "sku": "EVO069"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8156188049646,
+        "handle": "bio-retinol-glossy-lip-oil",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "coco-crayon-brave",
+      "title": "Coco Crayon",
+      "brand": "Ere Perez",
+      "category": "multi-use",
+      "use": null,
+      "description": "Glide on rich, buildable colour with Coco Crayon, your clean beauty essential for lips and cheeks. This slim, tapered crayon defines with precision, blends effortlessly, and feels comfortable all day, delivering a satin-soft feel with a modern matte finish. The creamy, hydrating formula helps smooth dry lips and keep skin feeling soft, powered by nourishing ",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Siren.png?v=1724354179",
+      "price": 34,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "coco-crayon-brave-siren",
+          "name": "Siren",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Siren.png?v=1724354179",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44253076029678,
+            "sku": "EP035"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-rebel",
+          "name": "Rebel",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Rebel.png?v=1724354178",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923209289966,
+            "sku": "EP036"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-heart",
+          "name": "Heart",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Heart.png?v=1724354178",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44158679679214,
+            "sku": "EP037"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-charm",
+          "name": "Charm",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Charm.png?v=1724354179",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923209224430,
+            "sku": "EP038"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-grace",
+          "name": "Grace",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Grace.png?v=1724354178",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923209257198,
+            "sku": "EP039"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-brave",
+          "name": "Brave",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Brave.png?v=1724354178",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923209191662,
+            "sku": "EP040"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-wild",
+          "name": "Wild",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CocoCrayon-Wild.png?v=1724354178",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44219779776750,
+            "sku": "EP041"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-aura",
+          "name": "Aura",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Aura_f573d262-bf4f-4361-8d4d-572d90a08fa9.png?v=1755263354",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55248027746680,
+            "sku": "UK100054"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-babe",
+          "name": "Babe",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Babe.png?v=1755263339",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55248028598648,
+            "sku": "UK100055"
+          }
+        },
+        {
+          "id": "coco-crayon-brave-muse",
+          "name": "Muse",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 34,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Muse.png?v=1755263342",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55248028893560,
+            "sku": "UK100056"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7983520710894,
+        "handle": "coco-crayon-brave",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "colour-carrot-pot-happy",
+      "title": "Carrot Colour Pot",
+      "brand": "Ere Perez",
+      "category": "multi-use",
+      "use": null,
+      "description": "Elevate your make up bag with multitasking, creamy Carrot Colour Pots, a buildable, blend-able cream colour that adds a fresh, radiant glow to cheeks and doubles as a hydrating lip colour balm. The unique botanical balm formula makes it effortless to create a soft, natural look or dial up the intensity for a more polished finish, with stunning pigment that m",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ColourCarrotPot-Humble.png?v=1724343797",
+      "price": 38,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "colour-carrot-pot-happy-humble",
+          "name": "Humble",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ColourCarrotPot-Humble.png?v=1724343797",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44158675681518,
+            "sku": "EP015"
+          }
+        },
+        {
+          "id": "colour-carrot-pot-happy-harmony",
+          "name": "Harmony",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Colour_Carrot_Pot_-_Harmony.png?v=1724343940",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923110592750,
+            "sku": "EP017"
+          }
+        },
+        {
+          "id": "colour-carrot-pot-happy-healthy",
+          "name": "Healthy",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Colour_Carrot_Pot_-_Healthy.png?v=1724343935",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923110625518,
+            "sku": "EP018"
+          }
+        },
+        {
+          "id": "colour-carrot-pot-happy-hello",
+          "name": "Hello",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Colour_Carrot_Pot_-_Hello.png?v=1724343930",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 44468663550190,
+            "sku": "EP019"
+          }
+        },
+        {
+          "id": "colour-carrot-pot-happy-holy",
+          "name": "Holy",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ColourCarrotPot-Holy.png?v=1724343797",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923110691054,
+            "sku": "EP020"
+          }
+        },
+        {
+          "id": "colour-carrot-pot-happy-happy",
+          "name": "Happy",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ColourCarrotPot-Happy.png?v=1724343797",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43923110559982,
+            "sku": "EP021"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7955476185326,
+        "handle": "colour-carrot-pot-happy",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "rice-powder-blush-bondi",
+      "title": "Rice Powder Blush - Bondi",
+      "brand": "Ere Perez",
+      "category": "blush",
+      "use": null,
+      "description": "Inspired by the coastal charm of Australia’s most iconic beach, Rice Powder Blush in Bondi delivers effortless, ocean-kissed colour with a stunning blend of matte mandarin and coral pink glimmer for a soft-focus, multi-dimensional flush. This vegan, natural blush adds an instant pop of radiance to everyday skin, while non-GMO rice starch helps soothe the loo",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RicePowder-Bondi.png?v=1724359157",
+      "price": 49,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "rice-powder-blush-bondi-rice-powder-blush-bondi",
+          "name": "Rice Powder Blush - Bondi",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43331233808622,
+            "sku": "EP066"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855356772590,
+        "handle": "rice-powder-blush-bondi",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "rice-powder-blush-bronzer-roma",
+      "title": "Rice Powder Blush & Bronzer – Roma",
+      "brand": "Ere Perez",
+      "category": "blush",
+      "use": null,
+      "description": "This stunning blush-and-bronzer duo adds depth and a rosy, healthy-looking glow in one effortless step. The breathable, luxurious formula blends seamlessly for a silky finish and is gentle on sensitive skin, with an oil-absorbing rice starch base designed to help it stay put all day. Vitamin E and chamomile are blended in for a calming, brightening boost, wh",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RicePowder-Blush_Bronzer-Roma.png?v=1724359333",
+      "price": 49,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "rice-powder-blush-bronzer-roma-rice-powder-blush-and-bronzer-roma",
+          "name": "Rice Powder Blush & Bronzer – Roma",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43331232858350,
+            "sku": "EP065"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855356641518,
+        "handle": "rice-powder-blush-bronzer-roma",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "jojoba-eye-pencil-black",
+      "title": "Jojoba Eye Pencil",
+      "brand": "Ere Perez",
+      "category": "eyeliner",
+      "use": null,
+      "description": "The most gentle, creamy natural eyeliner for sensitive eyes, Jojoba Eye Pencils glide on effortlessly and blend with ease to create everything from a soft bronzed wash to a defined wing, an easy smoky eye, or a polished everyday look. Formulated with natural botanical ingredients and infused with soothing jojoba oil, the vegan-friendly formula helps nourish ",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/JojobaEyePencil-Black_eaa11abf-75b9-4b17-abb8-9c17907fad23.png?v=1724407191",
+      "price": 30,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "jojoba-eye-pencil-black-black",
+          "name": "Black",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Jojoba_Eye_Pencil_-_Black_3.png?v=1724407218",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43930907934958,
+            "sku": "EP033"
+          }
+        },
+        {
+          "id": "jojoba-eye-pencil-black-gold",
+          "name": "Gold",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Jojoba_Eye_Pencil_-_Oro_3.png?v=1724407225",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43930907967726,
+            "sku": "EP034"
+          }
+        },
+        {
+          "id": "jojoba-eye-pencil-black-earth",
+          "name": "Earth",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 30,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ere-perez-Chrissy-look4-06.jpg?v=1750762843",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55176489173368,
+            "sku": "UK100057"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855368634606,
+        "handle": "jojoba-eye-pencil-black",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "vanilla-highlighter-falling-star",
+      "title": "Vanilla Highlighter",
+      "brand": "Ere Perez",
+      "category": "highlighter",
+      "use": null,
+      "description": "This velvety cream highlighter is a day-to-day essential that delivers exactly what you want from an everyday glow product: creamy, effortless, and infused with natural shimmer and shine to catch the light and illuminate your features. Scented with natural vanilla for a luxe touch, the deliciously smooth formula melts seamlessly into skin, sweeping over chee",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Highlighter-Halo.png?v=1724358705",
+      "price": 37,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "vanilla-highlighter-falling-star-sun-halo",
+          "name": "Sun Halo",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Highlighter-Halo.png?v=1724358705",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45693054615790,
+            "sku": "EP068"
+          }
+        },
+        {
+          "id": "vanilla-highlighter-falling-star-falling-star",
+          "name": "Falling Star",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Highlighter-FallingStar.png?v=1724358705",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45693054648558,
+            "sku": "EP069"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855354839278,
+        "handle": "vanilla-highlighter-falling-star",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "beetroot-cheek-lip-tint-joy",
+      "title": "Beetroot Cheek & Lip Tint",
+      "brand": "Ere Perez",
+      "category": "multi-use",
+      "use": null,
+      "description": "Powered by beetroot extract, this cheek and lip tint delivers a fresh pop of colour while helping to hydrate and nourish with antioxidant support. The versatile 2-in-1 formula can be worn on cheeks for a healthy-looking flush or on lips for an effortless stain, keeping your make up bag streamlined with fewer products. Designed with an easy precision applicat",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BeetrootLipandCheekTint-Fun.png?v=1724341744",
+      "price": 37,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "beetroot-cheek-lip-tint-joy-joy",
+          "name": "Joy",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BeetrootCheek_LipTint-Joy.png?v=1724341648",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 43967562285294,
+            "sku": "EP010"
+          }
+        },
+        {
+          "id": "beetroot-cheek-lip-tint-joy-fun",
+          "name": "Fun",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BeetrootLipandCheekTint-Fun.png?v=1724341744",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45692500869358,
+            "sku": "EP011"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855373582574,
+        "handle": "beetroot-cheek-lip-tint-joy",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "avocado-waterproof-mascara-black",
+      "title": "Avocado Waterproof Mascara",
+      "brand": "Ere Perez",
+      "category": "mascara",
+      "use": null,
+      "description": "A world-first vegan waterproof mascara since 2005, Avocado Waterproof Mascara is a make up bag must-have for smudge-proof, tear-proof, waterproof lashes that stay defined all day. Enriched with nourishing avocado and mamey oils, it helps condition lashes, support healthy-looking growth, and add a glossy sheen, all without harsh ingredients. Made without PFAS",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/AvocadoMascara.png?v=1724340997",
+      "price": 37,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "avocado-waterproof-mascara-black-waterproof-brown",
+          "name": "Waterproof Brown",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ErePerez-AvocadoWaterproofMascara-Brown-EP-WEB-SQ33.jpg?v=1747134455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55127827317112,
+            "sku": "EP009"
+          }
+        },
+        {
+          "id": "avocado-waterproof-mascara-black-waterproof-black",
+          "name": "Waterproof Black",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/AvocadoMascara.png?v=1724340997",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55127827349880,
+            "sku": "EP0010"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855365423342,
+        "handle": "avocado-waterproof-mascara-black",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "natural-almond-mascara-black",
+      "title": "Natural Almond Mascara (Various Shades)",
+      "brand": "Ere Perez",
+      "category": "mascara",
+      "use": null,
+      "description": "Meet Ere Perez Natural Almond Mascara, a nourishing everyday mascara designed to define, lengthen and enhance lashes while caring for them. The long-wearing, buildable formula is enriched with sweet almond, mamey and avocado oils to condition and support healthier-looking lashes. Smudge-proof and water-resistant, it delivers lasting colour and definition wit",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Almond_Mascara_-_Brown_2.png?v=1724409801",
+      "price": 37,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "natural-almond-mascara-black-black",
+          "name": "Black",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/AlmondMascara.png?v=1724409711",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45694909939950,
+            "sku": "EP051"
+          }
+        },
+        {
+          "id": "natural-almond-mascara-black-brown",
+          "name": "Brown",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Almond_Mascara_-_Brown_2.png?v=1724409801",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 45694909972718,
+            "sku": "EP052"
+          }
+        },
+        {
+          "id": "natural-almond-mascara-black-mauve",
+          "name": "Mauve",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 37,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ErePerez-NaturalAlmondMascara-Mauve-1080x1080-WEB-SQ.jpg?v=1788697625",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55649808384376,
+            "sku": "UK100442"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855364014318,
+        "handle": "natural-almond-mascara-black",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "arnica-concealer-brew",
+      "title": "Arnica all-cover pot",
+      "brand": "Ere Perez",
+      "category": "concealer",
+      "use": null,
+      "description": "The ultimate make up bag must-have, this all-cover pot is your foundation and concealer in one, designed to instantly even the look of skin tone and camouflage imperfections. The unique cream formula offers medium to full, adjustable coverage that blends seamlessly without caking or creasing, making it ideal for everyday wear. With skin-loving benefits, it i",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ArnicaAll-CoverPot-Latte.png?v=1724339071",
+      "price": 49,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "arnica-concealer-brew-latte",
+          "name": "Latte",
+          "depth": 1,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Arnica_All-Cover_Pot_-_Latte_2.png?v=1724339046",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 43930969899246,
+            "sku": "EP002"
+          }
+        },
+        {
+          "id": "arnica-concealer-brew-honey",
+          "name": "Honey",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Arnica_All-Cover_Pot_-_Honey_2.png?v=1724339094",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 43930969932014,
+            "sku": "EP003"
+          }
+        },
+        {
+          "id": "arnica-concealer-brew-chai",
+          "name": "Chai",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 46,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Arnica_All-Cover_Pot_-Chai_2.png?v=1724339122",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 43930969964782,
+            "sku": "EP004"
+          }
+        },
+        {
+          "id": "arnica-concealer-brew-caramel",
+          "name": "Caramel",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 46,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Arnica_All-Cover_Pot_-Caramel_2.png?v=1724339137",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 43930969997550,
+            "sku": "EP005"
+          }
+        },
+        {
+          "id": "arnica-concealer-brew-brew",
+          "name": "Brew",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 40,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Arnica_All-Cover_Pot_-Brew_2.png?v=1724339152",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 43930970030318,
+            "sku": "EP006"
+          }
+        },
+        {
+          "id": "arnica-concealer-brew-mocha",
+          "name": "Mocha",
+          "depth": 10,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 40,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Arnica_All-Cover_Pot_-Mocha_2.png?v=1724339165",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 43930970063086,
+            "sku": "EP007"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855353168110,
+        "handle": "arnica-concealer-brew",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "argan-brow-hero-perfect",
+      "title": "Argan Brow Hero",
+      "brand": "Ere Perez",
+      "category": "brow",
+      "use": null,
+      "description": "Add colour and naturally boosted brows in seconds with Argan Brow Hero, a clean brow gel that tints, tames, and thickens in just a few strokes. Nourishing argan oil, rich in fatty acids, omegas 3 and 6, vitamin E, and antioxidants, helps condition as it styles, supporting healthier-looking brows over time. Tiny bamboo fibres cling to both skin and hair to in",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BrowHero-Polished_2_ed85e42a-3a21-4118-ae95-2d46e3600607.png?v=1757415010",
+      "price": 38,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "argan-brow-hero-perfect-polished",
+          "name": "Polished",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BrowHero-Polished_2_ed85e42a-3a21-4118-ae95-2d46e3600607.png?v=1757415010",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55271033176440,
+            "sku": "EP003"
+          }
+        },
+        {
+          "id": "argan-brow-hero-perfect-perfect",
+          "name": "Perfect",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Perfect_0a297e04-c04b-4857-ab41-ce44d9dcaa39.png?v=1757415010",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55271033209208,
+            "sku": "EP001"
+          }
+        },
+        {
+          "id": "argan-brow-hero-perfect-pristine",
+          "name": "Pristine",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": null,
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BrowHero-Pristine_8066fb3f-f47c-4a42-b244-43b3b99dc8d7.png?v=1757415010",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55271033241976,
+            "sku": "EP002"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855369224430,
+        "handle": "argan-brow-hero-perfect",
         "store": "amelianour.co.uk"
       }
     }

@@ -10,7 +10,8 @@ const money = (v, ccy) =>
 const CATEGORY_LABEL = {
   foundation: 'Foundation', concealer: 'Concealer', 'skin-tint': 'Skin tint', 'setting-powder': 'Setting powder',
   blush: 'Blush', bronzer: 'Bronzer', lipstick: 'Lipstick', lip: 'Lip', 'lip-oil': 'Lip oil',
-  'lip-gloss': 'Lip gloss', highlighter: 'Highlighter', 'multi-use': 'Lip & cheek', brow: 'Brow',
+  'lip-gloss': 'Lip gloss', highlighter: 'Highlighter', 'multi-use': 'Lip & cheek',
+  eyeshadow: 'Eyeshadow', mascara: 'Mascara', eyeliner: 'Eyeliner', brow: 'Brow',
 };
 
 const MATCH_LEVEL = { strong: 3, good: 2, fair: 1, weak: 1 };
