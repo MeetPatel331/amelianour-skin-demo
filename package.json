@@ -1,0 +1,26 @@
+{
+  "name": "makeup-shade-finder-client",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AI Makeup Shade Finder — client (React + Vite). Static-data MVP.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build:data": "node ../data/build-products.mjs"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.18",
+    "colorjs.io": "^0.5.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.8"
+  }
+}

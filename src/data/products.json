@@ -1,0 +1,4227 @@
+{
+  "meta": {
+    "title": "AI Makeup Shade Finder — static demo catalogue",
+    "source": "amelianour.co.uk (public /products.json) — merchant's own store",
+    "pulledAt": "2026-10-15",
+    "demo": true,
+    "currency": "GBP",
+    "priceNote": "DEMO prices only = source value / 100 (store holds values at ~100x realistic retail). Not live store pricing — do not present as live.",
+    "depthScale": "1 (fairest) .. 10 (deepest); TENTATIVE/inferred from brand shade codes, not measured.",
+    "undertoneNote": "Tentative where derivable from brand shade codes; null where not reliably known. Correctable by the user.",
+    "labNote": "No calibrated reference Lab values available; lab is null for every shade and never invented.",
+    "productCount": 25,
+    "shadeCount": 168,
+    "generatedBy": "data/build-products.mjs"
+  },
+  "products": [
+    {
+      "id": "liplights-lip-gloss",
+      "title": "Liplights Cream Lip Gloss",
+      "brand": "RMS Beauty",
+      "category": "lip-gloss",
+      "use": null,
+      "description": "Treat your lips to the perfect balance of colour, care and shine with RMS Beauty Liplights Cream Lip Gloss. More than just a gloss, this skincare-infused formula works as a nourishing treatment balm, cream lip gloss and subtle sting-free volumiser in one. Enriched with plumping peptides, organic jojoba oil and rich shea butter, it delivers up to 24 hours of hydration while helping to smooth the ap",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipLights_Bisous.png?v=1785242484",
+      "price": 35,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "liplights-lip-gloss-bare",
+          "name": "Bare",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 35,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipLights_Bare_3.png?v=1785242483",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598699020664,
+            "sku": "UK100482"
+          }
+        },
+        {
+          "id": "liplights-lip-gloss-crush",
+          "name": "Crush",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 35,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipLights_Crush_3.png?v=1785242484",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598699053432,
+            "sku": "UK100483"
+          }
+        },
+        {
+          "id": "liplights-lip-gloss-rumor",
+          "name": "Rumor",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 35,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipLights_Rumour_3.png?v=1785242484",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598699086200,
+            "sku": "UK100484"
+          }
+        },
+        {
+          "id": "liplights-lip-gloss-bisou",
+          "name": "Bisou",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 35,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipLights_Bisous.png?v=1785242484",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598699118968,
+            "sku": "UK100485"
+          }
+        },
+        {
+          "id": "liplights-lip-gloss-babette",
+          "name": "Babette",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 35,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipLights_Babette_2.png?v=1785242484",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598699151736,
+            "sku": "UK100486"
+          }
+        },
+        {
+          "id": "liplights-lip-gloss-rhapsody",
+          "name": "Rhapsody",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 35,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipLights_Rhapsody_3.png?v=1785242484",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598699184504,
+            "sku": "UK100487"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15038671716728,
+        "handle": "smoothing-air-dry-cream-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "korres-natural-finish-blush",
+      "title": "Natural Finish Blush 01 Pink Peony",
+      "brand": "Korres",
+      "category": "blush",
+      "use": null,
+      "description": "Bring a fresh, healthy-looking flush of colour to your complexion with the Korres Natural Fresh Blush in 01 Pink Peony. This ultra-creamy powder blush blends effortlessly into the skin, delivering a soft-focus, velvety finish that can be built from a subtle wash of colour to a more vibrant pop. Enriched with antioxidant-rich peony flower extract and 26% natural origin esters, the silky formula hel",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/NaturalFreshBlush01PinkPeony.png?v=1784023510",
+      "price": 39,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "korres-natural-finish-blush-natural-finish-blush-01-pink-peony",
+          "name": "Natural Finish Blush 01 Pink Peony",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 39,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55598883766648,
+            "sku": "UK100468"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15038803018104,
+        "handle": "natural-finish-blush-01-pink-peony",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "korres-true-lip-shine",
+      "title": "True Lip Shine (Various Shades)",
+      "brand": "Korres",
+      "category": "lip",
+      "use": null,
+      "description": "From KORRES, this gloss-meets-balm formula delivers a sheer wash of colour with a high-shine, non-sticky finish. Designed to combine the comfort of a balm with the radiance of a gloss, it glides effortlessly onto lips, leaving them smooth, hydrated and visibly plump. Enriched with antioxidant-rich Pomegranate Flower Extract to help protect against environmental stressors, and 23% Castor Oil—natura",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipShine-RoseWater_4.png?v=1777324342",
+      "price": 29,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "korres-true-lip-shine-11-rosewater",
+          "name": "11 Rosewater",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 29,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipShine-RoseWater_4.png?v=1777324342",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540966556024,
+            "sku": "UK100371"
+          }
+        },
+        {
+          "id": "korres-true-lip-shine-27-mulberry",
+          "name": "27 Mulberry",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 29,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LipShine-Mulberry_2.png?v=1777324343",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540966588792,
+            "sku": "UK100372"
+          }
+        },
+        {
+          "id": "korres-true-lip-shine-19-pomegranate",
+          "name": "19 Pomegranate",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 29,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lip_Shine_-_Pomegranate.png?v=1783611931",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55600190914936,
+            "sku": null
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15023316304248,
+        "handle": "true-lip-shine-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "korres-multi-stick-balm",
+      "title": "Natural Colour Multi-stick Balm (Various Shades)",
+      "brand": "Korres",
+      "category": "multi-use",
+      "use": [
+        "lip",
+        "cheek"
+      ],
+      "description": "From KORRES, this creamy multi-stick is designed for effortless, on-the-go application, delivering a fresh, healthy-looking glow to both cheeks and lips. The twist-up format glides seamlessly onto the skin, blending with ease for a soft, dewy finish. Enriched with Paeonia Flower Extract—known for its moisturising properties—and nourishing Shea Butter, the formula melts on contact to provide smooth",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/NaturalColorMulti-stickBalmMutedBrown_2.png?v=1777324355",
+      "price": 39,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "korres-multi-stick-balm-32-muted-brown",
+          "name": "32 Muted Brown",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "dewy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 39,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540963737976,
+            "sku": "UK100374"
+          }
+        },
+        {
+          "id": "korres-multi-stick-balm-12-petal-pink",
+          "name": "12 Petal Pink",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "dewy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 39,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540963770744,
+            "sku": "UK100375"
+          }
+        },
+        {
+          "id": "korres-multi-stick-balm-02-glass-peach",
+          "name": "02 Glass Peach",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "dewy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 39,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55540963803512,
+            "sku": "UK100376"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15023315550584,
+        "handle": "natural-colour-multi-stick-balm-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "refresh-eye-brightener",
+      "title": "ReFresh Eye Brightener SPF 30 (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "concealer",
+      "use": null,
+      "description": "Brighten, protect and perfect the under-eye area with ReFresh Eye Brightener SPF 30, a multi-tasking treatment that blends skincare with coverage and sun protection. This lightweight, creamy formula instantly diffuses dark circles and visibly softens fine lines while shielding delicate skin from UVA/UVB rays with broad-spectrum SPF 30. Available in multiple shades to suit a range of skin tones, it",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RMS_Refresh_Adore.png?v=1776688218",
+      "price": 49,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "refresh-eye-brightener-swoon",
+          "name": "Swoon",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RMS_Refresh_Swoon.png?v=1776688218",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55498957226360,
+            "sku": "UK100324"
+          }
+        },
+        {
+          "id": "refresh-eye-brightener-hush",
+          "name": "Hush",
+          "depth": 4,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RMS_Refresh_Hush.png?v=1776688218",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55498957259128,
+            "sku": "UK100325"
+          }
+        },
+        {
+          "id": "refresh-eye-brightener-cherish",
+          "name": "Cherish",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RMS_Refresh_Cherish.png?v=1776688218",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55498957291896,
+            "sku": "UK100326"
+          }
+        },
+        {
+          "id": "refresh-eye-brightener-adore",
+          "name": "Adore",
+          "depth": 7,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RMS_Refresh_Adore.png?v=1776688218",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55498957324664,
+            "sku": "UK100327"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15012757537144,
+        "handle": "refresh-eye-brightener-spf-30-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "hydra-setting-powder",
+      "title": "Hydra Setting Powder (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "setting-powder",
+      "use": null,
+      "description": "RMS Beauty Hydra Setting Powder is a finely milled, weightless finishing powder that sets makeup while enhancing skin’s natural luminosity. Infused with hydrating and skin-conditioning ingredients, it diffuses the look of pores and fine lines without drying, leaving a soft, velvety finish that feels comfortable all day. Ideal for all skin types, especially those prone to dryness, this setting powd",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/SettingPowder_Medium_d1e8fa48-b1de-47f2-95bd-7256d6bd3838.png?v=1776688216",
+      "price": 45,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "hydra-setting-powder-sheer-light",
+          "name": "Sheer Light",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 45,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55498986750328,
+            "sku": "UK100330"
+          }
+        },
+        {
+          "id": "hydra-setting-powder-sheer-medium",
+          "name": "Sheer Medium",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 45,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55498986783096,
+            "sku": "UK100331"
+          }
+        },
+        {
+          "id": "hydra-setting-powder-sheer-deep",
+          "name": "Sheer Deep",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 45,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55498986815864,
+            "sku": "UK100332"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 15012769137016,
+        "handle": "hydra-setting-powder-10g-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "back2brow-powder",
+      "title": "Back2Brow Powder",
+      "brand": "RMS Beauty",
+      "category": "brow",
+      "use": null,
+      "description": "Meet RMS Beauty Back2Brow Powder, a long wearing brow perfecter designed to define and shape with soft, natural dimension. The finely milled formula adheres effortlessly to create the look of real brow hairs, adding subtle luminosity that mimics natural hair. Enriched with cocoa seed butter to help condition, and formulated with mineral pigments that lend a delicate sheen, it delivers brows that s",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/0012_RMS_B2B1_LIGHT_816248022212_PRIMARY.jpg?v=1761310795",
+      "price": 29,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "back2brow-powder-light",
+          "name": "Light",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 29,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/0012_RMS_B2B1_LIGHT_816248022212_PRIMARY.jpg?v=1761310795",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55336909406584,
+            "sku": "UK100092"
+          }
+        },
+        {
+          "id": "back2brow-powder-medium",
+          "name": "Medium",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 29,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/0009_RMS_B2B2_MEDIUM_816248022229_PRIMARY.jpg?v=1761310795",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55336909439352,
+            "sku": "UK100093"
+          }
+        },
+        {
+          "id": "back2brow-powder-dark",
+          "name": "Dark",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 29,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/0006_RMS_B2B3_DARK_816248022236_PRIMARY.jpg?v=1761310795",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55336909472120,
+            "sku": "UK100094"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14979855122808,
+        "handle": "back2brow-powder",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "revitalize-hydra-concealer",
+      "title": "Revitalize Hydra Concealer (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "concealer",
+      "use": null,
+      "description": "Meet Revitalize Hydra Concealer, a high performance clean concealer offering medium coverage with a soft satin, skin like finish that perfects while it cares. The crease resistant, ultra nourishing formula feels featherlight and blends seamlessly to brighten dark circles, blur imperfections, and calm redness without caking or settling into fine lines or pores. Delivering smooth, long lasting cover",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248028993-RHC5-C06-PACK-SHOT.jpg?v=1761299878",
+      "price": 36,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "revitalize-hydra-concealer-on01",
+          "name": "ON01",
+          "depth": 1,
+          "undertone": "olive",
+          "undertoneLean": "neutral",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248028979-RHC3-ON01-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705196408,
+            "sku": "UK100130"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-c02",
+          "name": "C02",
+          "depth": 1,
+          "undertone": "cool",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248028962-RHC2-C02-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498147192,
+            "sku": "UK100131"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-cn03",
+          "name": "CN03",
+          "depth": 2,
+          "undertone": "neutral",
+          "undertoneLean": "cool",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248028955-RHC1-CN03-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705229176,
+            "sku": "UK100132"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-wn04",
+          "name": "WN04",
+          "depth": 2,
+          "undertone": "neutral",
+          "undertoneLean": "warm",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029020-RHC8-WN04-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498573176,
+            "sku": "UK100133"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-c05",
+          "name": "C05",
+          "depth": 2,
+          "undertone": "cool",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248028986-RHC4-C05-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498179960,
+            "sku": "UK100134"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-c06",
+          "name": "C06",
+          "depth": 3,
+          "undertone": "cool",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248028993-RHC5-C06-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498212728,
+            "sku": "UK100135"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-cn07",
+          "name": "CN07",
+          "depth": 3,
+          "undertone": "neutral",
+          "undertoneLean": "cool",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029013-RHC7-CN07-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498311032,
+            "sku": "UK100136"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-on08",
+          "name": "ON08",
+          "depth": 4,
+          "undertone": "olive",
+          "undertoneLean": "neutral",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029037-RHC9-ON08-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498376568,
+            "sku": "UK100137"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-wn09",
+          "name": "WN09",
+          "depth": 4,
+          "undertone": "neutral",
+          "undertoneLean": "warm",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029006-RHC6-WN09-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498605944,
+            "sku": "UK100138"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-cn010",
+          "name": "CN010",
+          "depth": 4,
+          "undertone": "neutral",
+          "undertoneLean": "cool",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029051-RHC11-CN010-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498245496,
+            "sku": "UK100139"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-wn011",
+          "name": "WN011",
+          "depth": 5,
+          "undertone": "neutral",
+          "undertoneLean": "warm",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029068-RHC12-WN011-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705261944,
+            "sku": "UK100140"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-wn012",
+          "name": "WN012",
+          "depth": 5,
+          "undertone": "neutral",
+          "undertoneLean": "warm",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029044-RHC10-WN012-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498507640,
+            "sku": "UK100141"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-w013",
+          "name": "W013",
+          "depth": 5,
+          "undertone": "warm",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029082-RHC14-W013-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498409336,
+            "sku": "UK100142"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-on014",
+          "name": "ON014",
+          "depth": 6,
+          "undertone": "olive",
+          "undertoneLean": "neutral",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029075-RHC13-ON014-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498343800,
+            "sku": "UK100143"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-wn015",
+          "name": "WN015",
+          "depth": 6,
+          "undertone": "neutral",
+          "undertoneLean": "warm",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029099-RHC15-WN015-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498540408,
+            "sku": "UK100144"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-w016",
+          "name": "W016",
+          "depth": 6,
+          "undertone": "warm",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029129-RHC18-W016-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498442104,
+            "sku": "UK100145"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-c017",
+          "name": "C017",
+          "depth": 7,
+          "undertone": "cool",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029150-RHC21-C017-PACK-SHOT_1.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498114424,
+            "sku": "UK100146"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-cn018",
+          "name": "CN018",
+          "depth": 7,
+          "undertone": "neutral",
+          "undertoneLean": "cool",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029105-RHC16-CN018-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498278264,
+            "sku": "UK100147"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-w019",
+          "name": "W019",
+          "depth": 7,
+          "undertone": "warm",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029136-RHC19-W019-PACK-SHOT.jpg?v=1761299878",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55325498474872,
+            "sku": "UK100148"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-on020",
+          "name": "ON020",
+          "depth": 8,
+          "undertone": "olive",
+          "undertoneLean": "neutral",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029112-RHC17-ON020-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705294712,
+            "sku": "UK100149"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-on021",
+          "name": "ON021",
+          "depth": 8,
+          "undertone": "olive",
+          "undertoneLean": "neutral",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029143-RHC20-ON021-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705327480,
+            "sku": "UK100150"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-cn022",
+          "name": "CN022",
+          "depth": 9,
+          "undertone": "neutral",
+          "undertoneLean": "cool",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029174-RHC23-CN022-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705360248,
+            "sku": "UK100151"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-w023",
+          "name": "W023",
+          "depth": 9,
+          "undertone": "warm",
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029167-RHC22-W023-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705393016,
+            "sku": "UK100152"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-wn024",
+          "name": "WN024",
+          "depth": 9,
+          "undertone": "neutral",
+          "undertoneLean": "warm",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/816248029181-RHC24-WN024-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705425784,
+            "sku": "UK100153"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-cn025",
+          "name": "CN025",
+          "depth": 10,
+          "undertone": "neutral",
+          "undertoneLean": "cool",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170740565-RHC25-CN025-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705458552,
+            "sku": "UK100154"
+          }
+        },
+        {
+          "id": "revitalize-hydra-concealer-cn026",
+          "name": "CN026",
+          "depth": 10,
+          "undertone": "neutral",
+          "undertoneLean": "cool",
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170740572-RHC26-CN026-PACK-SHOT.jpg?v=1761302455",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code numeral",
+            "undertoneSource": "shade-code letters"
+          },
+          "source": {
+            "shopifyVariantId": 55336705491320,
+            "sku": "UK100155"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978872902008,
+        "handle": "revitalize-hydra-concealer",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "reevolve-foundation",
+      "title": "ReEvolve Natural Finish Liquid Foundation (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "foundation",
+      "use": null,
+      "description": "Meet ReEvolve Natural Finish Liquid Foundation, a silicone free, skincare infused base designed to deliver fresh feeling, easy to blend medium coverage with a natural second skin finish. The breathable formula hydrates, firms, and softens while providing comfortable all day wear. Water and sweat resistant and non comedogenic, it will not clog pores and helps maintain a smooth, even complexion thro",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation00.jpg?v=1761298762",
+      "price": 59,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "reevolve-foundation-000",
+          "name": "000",
+          "depth": 1,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation000.jpg?v=1761298762",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336599814520,
+            "sku": "UK100158"
+          }
+        },
+        {
+          "id": "reevolve-foundation-00",
+          "name": "00",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation00.jpg?v=1761298762",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325490905464,
+            "sku": "UK100159"
+          }
+        },
+        {
+          "id": "reevolve-foundation-11",
+          "name": "11",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation11.jpg?v=1761298762",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325490938232,
+            "sku": "UK100160"
+          }
+        },
+        {
+          "id": "reevolve-foundation-11-5",
+          "name": "11.5",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation11.jpg?v=1761298762",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325490971000,
+            "sku": "UK100161"
+          }
+        },
+        {
+          "id": "reevolve-foundation-22",
+          "name": "22",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation22.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336599847288,
+            "sku": "UK100162"
+          }
+        },
+        {
+          "id": "reevolve-foundation-22-5",
+          "name": "22.5",
+          "depth": 4,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation22.5.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325491003768,
+            "sku": "UK100163"
+          }
+        },
+        {
+          "id": "reevolve-foundation-33",
+          "name": "33",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation33.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325491036536,
+            "sku": "UK100164"
+          }
+        },
+        {
+          "id": "reevolve-foundation-33-5",
+          "name": "33.5",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation33.5.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325491069304,
+            "sku": "UK100165"
+          }
+        },
+        {
+          "id": "reevolve-foundation-44",
+          "name": "44",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation44.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325491102072,
+            "sku": "UK100166"
+          }
+        },
+        {
+          "id": "reevolve-foundation-55",
+          "name": "55",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation55.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325491134840,
+            "sku": "UK100167"
+          }
+        },
+        {
+          "id": "reevolve-foundation-66",
+          "name": "66",
+          "depth": 7,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation66.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336599880056,
+            "sku": "UK100168"
+          }
+        },
+        {
+          "id": "reevolve-foundation-77",
+          "name": "77",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation77.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336599912824,
+            "sku": "UK100169"
+          }
+        },
+        {
+          "id": "reevolve-foundation-88",
+          "name": "88",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation88.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336599945592,
+            "sku": "UK100170"
+          }
+        },
+        {
+          "id": "reevolve-foundation-99",
+          "name": "99",
+          "depth": 9,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation99.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336599978360,
+            "sku": "UK100171"
+          }
+        },
+        {
+          "id": "reevolve-foundation-111",
+          "name": "111",
+          "depth": 9,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation111.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336600011128,
+            "sku": "UK100172"
+          }
+        },
+        {
+          "id": "reevolve-foundation-122",
+          "name": "122",
+          "depth": 10,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 59,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReEvolveNaturalFinishFoundation122.jpg?v=1761305692",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55336600043896,
+            "sku": "UK100173"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978871558520,
+        "handle": "reevolve-natural-finish-liquid-foundation",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "lip2cheek",
+      "title": "Lip2Cheek (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "multi-use",
+      "use": [
+        "lip",
+        "cheek"
+      ],
+      "description": "Meet Lip2Cheek, a multitasking natural cream colour designed to enhance both lips and cheeks with seamless, buildable payoff. The concentrated formula means a little goes a long way, allowing you to dial up from a fresh, youthful sheer to a richer, more vibrant intensity. Infused with wildcrafted buriti oil, shea butter, and cocoa butter, it cushions and nourishes while leaving a soft, dewy finish",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170740220-CRYSTAL-SLIPPER-L2C16-LIP2CHEEK-PACK-SHOT-2000x2000.jpg?v=1761296408",
+      "price": 42,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "lip2cheek-crystal-slipper",
+          "name": "Crystal Slipper",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170740220-CRYSTAL-SLIPPER-L2C16-LIP2CHEEK-PACK-SHOT-2000x2000.jpg?v=1761296408",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396926840,
+            "sku": "UK100195"
+          }
+        },
+        {
+          "id": "lip2cheek-demure",
+          "name": "Demure",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LIP2CHEEK-DEMURE.png?v=1761296563",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396959608,
+            "sku": "UK100196"
+          }
+        },
+        {
+          "id": "lip2cheek-beloved",
+          "name": "Beloved",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LIP2CHEEK-BELOVED.jpg?v=1761296563",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396992376,
+            "sku": "UK100197"
+          }
+        },
+        {
+          "id": "lip2cheek-illusive",
+          "name": "Illusive",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LIP2CHEEK-ILLUSIVE.png?v=1761296563",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325397025144,
+            "sku": "UK100198"
+          }
+        },
+        {
+          "id": "lip2cheek-lost-angel",
+          "name": "Lost Angel",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LIP2CHEEK-LOST-ANGEL.png?v=1761296563",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325397057912,
+            "sku": "UK100199"
+          }
+        },
+        {
+          "id": "lip2cheek-modest",
+          "name": "Modest",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LIP2CHEEK-MODEST.png?v=1761296563",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325397090680,
+            "sku": "UK100200"
+          }
+        },
+        {
+          "id": "lip2cheek-smile",
+          "name": "Smile",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LIP2CHEEK-SMILE.png?v=1761296563",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325397123448,
+            "sku": "UK100201"
+          }
+        },
+        {
+          "id": "lip2cheek-spell",
+          "name": "Spell",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LIP2CHEEK-SPELL.png?v=1761296408",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325397156216,
+            "sku": "UK100202"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978847375736,
+        "handle": "lip2cheek",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "legendary-lip-oil",
+      "title": "Legendary Lip Oil (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "lip-oil",
+      "use": null,
+      "description": "Meet Legendary Lip Oil, a plush, ultra nourishing treatment gloss that cocoons lips in comforting moisture while delivering alluring, non sticky shine and a wash of buildable colour in a single swipe. The lightweight formula feels like skincare for your lips, softening and conditioning like a balm while offering the juicy luminosity of a gloss. Naturally flavoured with a hint of organic vanilla, i",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170760206-LP09-CRYSTAL-SLIPPER-LIP-OIL-PACK-SHOT-2000X2000.jpg?v=1761294573",
+      "price": 26,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "legendary-lip-oil-adrianna",
+          "name": "Adrianna",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ADRIANNA-PACK-SHOT_7.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393355128,
+            "sku": "UK100216"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-alessandra",
+          "name": "Alessandra",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ALESSANDRA-PACK-SHOT.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393387896,
+            "sku": "UK100217"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-amber",
+          "name": "Amber",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/AMBER-PACK-SHOT_1.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393420664,
+            "sku": "UK100218"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-crystal-slipper",
+          "name": "Crystal Slipper",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170760206-LP09-CRYSTAL-SLIPPER-LIP-OIL-PACK-SHOT-2000X2000.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393453432,
+            "sku": "UK100219"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-elle",
+          "name": "Elle",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ELLEPACK-SHOT_2.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393486200,
+            "sku": "UK100220"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-karolina",
+          "name": "Karolina",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/KAROLINA-PACK-SHOT_3.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393518968,
+            "sku": "UK100221"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-lily",
+          "name": "Lily",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LILY-PACK-SHOT_4.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393551736,
+            "sku": "UK100222"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-lucia",
+          "name": "Lucia",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LUCIA-PACK-SHOT_5.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393584504,
+            "sku": "UK100223"
+          }
+        },
+        {
+          "id": "legendary-lip-oil-milla",
+          "name": "Milla",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "glossy",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 26,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MILLA-PACK-SHOT_6.jpg?v=1761294573",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325393617272,
+            "sku": "UK100224"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978846556536,
+        "handle": "legendary-lip-oil",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "legendary-serum-lipstick",
+      "title": "Legendary Serum Lipstick (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "lipstick",
+      "use": null,
+      "description": "Meet Legendary Serum Lipstick, a first of its kind lipstick lip stain hybrid that delivers fully saturated, long lasting colour in a single swipe with a weightless, non drying feel and a velvety satin finish. The innovative water based formula glides on with a refreshing cooling sensation to hydrate, smooth, and revitalise lips throughout wear. Instead of plain water, it is infused with organic bi",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Linda_StandingOpen.jpg?v=1761287891",
+      "price": 36,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "legendary-serum-lipstick-angela",
+          "name": "Angela",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Angela_StandingOpen.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394370936,
+            "sku": "UK100208"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-audrey",
+          "name": "Audrey",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Audrey_StandingOpen.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394403704,
+            "sku": "UK100209"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-linda",
+          "name": "Linda",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Linda_StandingOpen.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394436472,
+            "sku": "UK100210"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-melanie",
+          "name": "Melanie",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Melanie_StandingOpen.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394469240,
+            "sku": "UK100211"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-mickey",
+          "name": "Mickey",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Mickey_StandingOpen.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394502008,
+            "sku": "UK100212"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-miranda",
+          "name": "Miranda",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Miranda_StandingOpen.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394534776,
+            "sku": "UK100213"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-monica",
+          "name": "Monica",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Monica_StandingOpen.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394567544,
+            "sku": "UK100214"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-ruby-moon",
+          "name": "Ruby Moon",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/RubyMoon_Open.jpg?v=1761287891",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325394600312,
+            "sku": "UK100215"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978846949752,
+        "handle": "legendary-serum-lipstick",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "legendary-serum-lipstick-nudes",
+      "title": "Legendary Serum Lipstick: The Nudes (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "lipstick",
+      "use": null,
+      "description": "Meet Legendary Serum Lipstick: The Nudes, a first of its kind lipstick serum hybrid designed to deliver subtle nude drama with long lasting, one swipe coverage and a soft satin finish. The ultra light, non drying water based formula glides on with a refreshing, cooling feel, smoothing and revitalising lips while providing comfortable hydration throughout the day. Instead of plain water, it is infu",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LEGENDARY-NUDES-JAYNE.jpg?v=1761236758",
+      "price": 36,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "legendary-serum-lipstick-nudes-eve",
+          "name": "Eve",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LEGENDARY-NUDES-EVE_2.jpg?v=1761236861",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396337016,
+            "sku": "UK100203"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-nudes-jayne",
+          "name": "Jayne",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LEGENDARY-NUDES-JAYNE_2.jpg?v=1761236758",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396369784,
+            "sku": "UK100204"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-nudes-mae",
+          "name": "Mae",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LEGENDARY-NUDES-MAE_2.jpg?v=1761236861",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396402552,
+            "sku": "UK100205"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-nudes-naomi",
+          "name": "Naomi",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LEGENDARY-NUDES-NAOMI_2.jpg?v=1761236861",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396435320,
+            "sku": "UK100206"
+          }
+        },
+        {
+          "id": "legendary-serum-lipstick-nudes-pamela",
+          "name": "Pamela",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 36,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LEGENDARY-NUDES-_PAMELA_2.jpg?v=1761236861",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325396468088,
+            "sku": "UK100207"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978847211896,
+        "handle": "legendary-serum-lipstick-the-nudes",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "redimension-powder-blush",
+      "title": "ReDimension Hydra Powder Blush (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "blush",
+      "use": null,
+      "description": "Meet ReDimension Hydra Powder Blush, a multi dimensional, nourishing blush with a silky gel to powder texture that glides on effortlessly and builds seamlessly to enliven cheeks with soft, luminous colour. Powered by sugar derived wet powder technology, it combines the creamy comfort of a balm with a long wearing, three dimensional finish for a naturally radiant glow. Infused with skin loving wild",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ReDimensionHydraPowderBlush_HankyPanky_101x_8f9ad224-42a8-4612-b96a-3b25712c450e.png?v=1770112504",
+      "price": 38,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "redimension-powder-blush-bermuda-rose",
+          "name": "Bermuda Rose",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/01._BERMUDA-ROSE-SQUARE.png?v=1770113353",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325489856888,
+            "sku": "UK100174"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-crystal-slipper",
+          "name": "Crystal Slipper",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CRYSTAL-SLIPPER-QUAD_png.png?v=1770112504",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325489889656,
+            "sku": "UK100175"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-bohemian-girl",
+          "name": "Bohemian Girl",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325489922424,
+            "sku": "UK100176"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-hanky-panky",
+          "name": "Hanky Panky",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/HANKY-PANKY.png?v=1770112504",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325489955192,
+            "sku": "UK100177"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-kir-royale",
+          "name": "Kir Royale",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/KIR-ROYALE-QUAD_png.png?v=1770112504",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325489987960,
+            "sku": "UK100178"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-mai-tai",
+          "name": "Mai Tai",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MAITAI.png?v=1770112504",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325490020728,
+            "sku": "UK100179"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-maiden-s-blush",
+          "name": "Maiden's Blush",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MAIDENSBLUSH.png?v=1770112504",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325490053496,
+            "sku": "UK100180"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-pomegranate-fizz",
+          "name": "Pomegranate Fizz",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/POMFIZZ.png?v=1770112504",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325490086264,
+            "sku": "UK100181"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-sangria",
+          "name": "Sangria",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325490119032,
+            "sku": "UK100182"
+          }
+        },
+        {
+          "id": "redimension-powder-blush-french-ros",
+          "name": "French Rosé",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "satin",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/FRENCH-ROSE.png?v=1770112504",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55335647117688,
+            "sku": "UK100183"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978871296376,
+        "handle": "redimension-hydra-powder-blush",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "uncoverup-concealer",
+      "title": "UnCoverup Concealer (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "concealer",
+      "use": null,
+      "description": "Meet UnCoverup Concealer, a lightweight, buildable cream designed to deliver a natural, skin like finish while remaining non comedogenic and comfortable throughout the day. This versatile 3 in 1 multitasker brightens dark circles, conceals blemishes, and neutralises redness with sheer to medium coverage that can be layered to suit your look. The formula blends effortlessly without settling into fi",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UU-22.5.jpg?v=1761217844",
+      "price": 42,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "uncoverup-concealer-000",
+          "name": "000",
+          "depth": 1,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-000.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55335596196216,
+            "sku": "UK100095"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-00",
+          "name": "00",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": false,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-00.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517087096,
+            "sku": "UK100096"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-11",
+          "name": "11",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/11_fce3ed87-d320-4b90-85bf-64ca4e95cdfd.png?v=1776960458",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55538568233336,
+            "sku": "UK100349"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-11-5",
+          "name": "11.5",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-11.5.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517119864,
+            "sku": "UK100097"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-22",
+          "name": "22",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU_22.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517152632,
+            "sku": "UK100098"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-22-5",
+          "name": "22.5",
+          "depth": 4,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UU-22.5.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517349240,
+            "sku": "UK100099"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-33",
+          "name": "33",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-33.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517185400,
+            "sku": "UK100100"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-33-5",
+          "name": "33.5",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-33.5.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517218168,
+            "sku": "UK100101"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-44",
+          "name": "44",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-44.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517250936,
+            "sku": "UK100102"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-55",
+          "name": "55",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-55.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517283704,
+            "sku": "UK100103"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-66",
+          "name": "66",
+          "depth": 7,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-66.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55325517316472,
+            "sku": "UK100104"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-77",
+          "name": "77",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-77.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55335596228984,
+            "sku": "UK100105"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-88",
+          "name": "88",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-88.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55335596261752,
+            "sku": "UK100106"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-99",
+          "name": "99",
+          "depth": 9,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-99.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55335596294520,
+            "sku": "UK100107"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-111",
+          "name": "111",
+          "depth": 9,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-111.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55335596327288,
+            "sku": "UK100108"
+          }
+        },
+        {
+          "id": "uncoverup-concealer-122",
+          "name": "122",
+          "depth": 10,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "medium-full",
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/UCU-122.jpg?v=1761217844",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-code (ordinal)",
+            "undertoneSource": "unknown",
+            "undertoneNote": "brand numeric code does not reliably encode undertone"
+          },
+          "source": {
+            "shopifyVariantId": 55335596360056,
+            "sku": "UK100109"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978875851128,
+        "handle": "uncoverup-concealer",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "suncoverup-super-tint",
+      "title": "SunCoverup Super Tint SPF 50 (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "skin-tint",
+      "use": null,
+      "description": "Meet SunCoverup Super Tint SPF 50, a silicone free, skincare infused daily tinted moisturiser available in 13 sheer, flexible shades. This lightweight, breathable formula hydrates and evens skin tone while delivering natural, radiant coverage that looks like skin. Powered by non nano zinc oxide, it helps shield against UVA, UVB, and blue light, offering high level daily protection. The long wearin",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CAMEO-PACK-2000X2000_2.jpg?v=1761215846",
+      "price": 49,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "suncoverup-super-tint-alabaster",
+          "name": "Alabaster",
+          "depth": 1,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Alabaster_BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55335558873464,
+            "sku": "UK100113"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-ivory",
+          "name": "Ivory",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Ivory-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325505061240,
+            "sku": "UK100114"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-cameo",
+          "name": "Cameo",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Cameo-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325504995704,
+            "sku": "UK100115"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-buff",
+          "name": "Buff",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BUFF-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325504962936,
+            "sku": "UK100116"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-sand",
+          "name": "Sand",
+          "depth": 4,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/SAND-BEFORE-AFTER_4.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325505094008,
+            "sku": "UK100117"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-tan",
+          "name": "Tan",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Tan-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325505126776,
+            "sku": "UK100118"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-honey",
+          "name": "Honey",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/HONEY-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325505028472,
+            "sku": "UK100119"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-tawny",
+          "name": "Tawny",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/TAWNY-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325505159544,
+            "sku": "UK100120"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-caramel",
+          "name": "Caramel",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Caramel-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55335558906232,
+            "sku": "UK100121"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-spice",
+          "name": "Spice",
+          "depth": 7,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Spice-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55335558939000,
+            "sku": "UK100122"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-toffee",
+          "name": "Toffee",
+          "depth": 7,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/TOFFEE-PACK-2000X2000_10.jpg?v=1761213764",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55335558971768,
+            "sku": "UK100123"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-mahogany",
+          "name": "Mahogany",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MAHOGANY-PACK-2000X2000_11.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55335559004536,
+            "sku": "UK100124"
+          }
+        },
+        {
+          "id": "suncoverup-super-tint-mocha",
+          "name": "Mocha",
+          "depth": 9,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 49,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MOCHA-BEFORE-AFTER.jpg?v=1761215846",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55335559037304,
+            "sku": "UK100125"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978874147192,
+        "handle": "suncoverup-super-tint-spf-50-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "supernatural-tinted-serum",
+      "title": "Supernatural Radiance Tinted Serum with SPF 30 (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "skin-tint",
+      "use": null,
+      "description": "Meet SuperNatural Radiance Tinted Serum SPF 30, a lightweight, skin nourishing veil that delivers a soft wash of tint while protecting and perfecting. Powered by mineral non nano zinc oxide, it helps defend against UV exposure while evening skin tone and blurring imperfections for a natural, lit from within finish. Infused with complexion correcting soft focus technology and GlowPlex, a radiance b",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Alt_Launch_Post_6_1.png?v=1761209246",
+      "price": 53,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "supernatural-tinted-serum-light-aura",
+          "name": "Light Aura",
+          "depth": 2,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325507912056,
+            "sku": "UK100110"
+          }
+        },
+        {
+          "id": "supernatural-tinted-serum-medium-aura",
+          "name": "Medium Aura",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325507944824,
+            "sku": "UK100111"
+          }
+        },
+        {
+          "id": "supernatural-tinted-serum-rich-aura",
+          "name": "Rich Aura",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55325507977592,
+            "sku": "UK100112"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978874737016,
+        "handle": "supernatural-radiance-tinted-serum-with-spf-30",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "redimension-bronzer",
+      "title": "ReDimension Hydra Bronzer (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "bronzer",
+      "use": null,
+      "description": "Meet ReDimension Hydra Bronzer, a talc free, long wear gel to powder bronzer housed in a refillable mirrored compact and available in four expertly curated shades. Designed to sweep on effortlessly, it brings multi dimensional warmth and soft definition to the complexion. The bouncy, light as air texture melts into skin and builds seamlessly for golden, sun kissed colour. This two in one complexio",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/BRONZER-MODEL-TL_3.jpg?v=1761207586",
+      "price": 38,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "redimension-bronzer-beachwalk-betty",
+          "name": "Beachwalk Betty",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MEET-THE-SHADE-BEACHWALK-BETTY_3.jpg?v=1761207586",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325483041144,
+            "sku": "UK100185"
+          }
+        },
+        {
+          "id": "redimension-bronzer-bikini-beach",
+          "name": "Bikini Beach",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MEET-THE-SHADE-BIKINI-BEACH_3.jpg?v=1761207586",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325483073912,
+            "sku": "UK100186"
+          }
+        },
+        {
+          "id": "redimension-bronzer-malibu-muse",
+          "name": "Malibu Muse",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MEET-THE-SHADE-MALIBU-MUSE_3.jpg?v=1761207586",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325483106680,
+            "sku": "UK100187"
+          }
+        },
+        {
+          "id": "redimension-bronzer-tan-lines",
+          "name": "Tan Lines",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "natural",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 38,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MEET-THE-SHADE-TAN-LINES_3.jpg?v=1761207586",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325483139448,
+            "sku": "UK100188"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978868969848,
+        "handle": "redimension-hydra-bronzer",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "redimension-dew-luminizer",
+      "title": "ReDimension Hydra Dew Luminizer (Prosecco Fizz)",
+      "brand": "RMS Beauty",
+      "category": "highlighter",
+      "use": null,
+      "description": "Meet ReDimension Hydra Dew Luminizer, a multi dimensional, long wear gel to powder highlighter designed to deliver all day radiance in Prosecco Fizz, a warm champagne sheen. The bouncy, light as air texture glides on and melts seamlessly into skin, whether applied to the high points of the face or dusted all over for an illuminated glow. Combining the nourishing feel of a cream with the light refl",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/HYDRA-DEW-SHADE-DESC.jpg?v=1761065281",
+      "price": 44,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "redimension-dew-luminizer-standard-7g",
+          "name": "Standard (7g)",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "luminous",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 44,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55502885781880,
+            "sku": "UK100184"
+          }
+        },
+        {
+          "id": "redimension-dew-luminizer-refill-recharge-7g",
+          "name": "Refill/Recharge (7g)",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "luminous",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 33,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55502885814648,
+            "sku": "UK100185"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978869231992,
+        "handle": "redimension-hydra-dew-luminizer",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "buriti-bronzer",
+      "title": "Buriti Bronzer",
+      "brand": "RMS Beauty",
+      "category": "bronzer",
+      "use": null,
+      "description": "Meet Buriti Bronzer, an award winning cream bronzer that hydrates as it warms the complexion with an authentically sun kissed glow. Sweep it over the high points of the face for natural definition or blend across the shoulders and décolletage for a radiant evening sheen. The creamy, nourishing formula melts into skin, leaving it soft, smooth, and beautifully enhanced. Housed in a glass jar with a ",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Web1920_9.png?v=1761064660",
+      "price": 35,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "buriti-bronzer-buriti-bronzer",
+          "name": "Buriti Bronzer",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "matte",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 35,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325398008184,
+            "sku": "UK100193"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978847572344,
+        "handle": "buriti-bronzer",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "rms-luminizer",
+      "title": "Luminizer (Various Shades)",
+      "brand": "RMS Beauty",
+      "category": "highlighter",
+      "use": null,
+      "description": "This award winning, multi use cream highlighter delivers a light reflective, dewy glow that enhances skin with effortless, natural radiance. Inspired by professional makeup artists on set, it creates a subtle, lit from within finish that never appears greasy or glittery. The nourishing formula is crafted with skin loving organic ingredients that care for the complexion while adding luminosity. Hou",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170740237-LL7-CRYSTAL-SLIPPER-LUMINIZER-MODEL-1-2000X2000.jpg?v=1761064883",
+      "price": 42,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "rms-luminizer-crystal-slipper",
+          "name": "Crystal Slipper",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "luminous",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/810170740237-LL7-CRYSTAL-SLIPPER-LUMINIZER-PACK-SHOT-2000X2000-NS-WHITE.jpg?v=1761064883",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325387653496,
+            "sku": "UK100244"
+          }
+        },
+        {
+          "id": "rms-luminizer-living",
+          "name": "Living",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "luminous",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LivingLuminizer-SWATCH.png?v=1761064883",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325387686264,
+            "sku": "UK100245"
+          }
+        },
+        {
+          "id": "rms-luminizer-magic",
+          "name": "Magic",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "luminous",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/MAGIC-LUMINIZER.jpg?v=1761064883",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325387719032,
+            "sku": "UK100246"
+          }
+        },
+        {
+          "id": "rms-luminizer-champagne-ros",
+          "name": "Champagne Rosé",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "luminous",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 42,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/CHAMPAGNE-ROSE-LUMINIZER.jpg?v=1761064883",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325398335864,
+            "sku": "UK100247"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978845475192,
+        "handle": "luminizer",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "peach-bronzing-drops",
+      "title": "Peach Gel Bronzing Drops",
+      "brand": "Ere Perez",
+      "category": "bronzer",
+      "use": null,
+      "description": "Glow like it’s golden hour with Peach Gel Bronze Drops, sensitive-skin-safe bronzing drops that deliver a natural, sun-kissed radiance. This luminous tinted serum-gel bronzer blends seamlessly and builds beautifully, melting into skin with a soft-focus shimmer for a flawless, no-make up make up finish. Wear it your way: mix a few drops into moisturiser, layer under foundation, or apply solo for an",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/PeachGelBronzeDrops_1_101x_0298f2eb-ad1e-4a07-b18d-0cd9989c1f3f.png?v=1770112437",
+      "price": 47,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "peach-bronzing-drops-peach-gel-bronzing-drops",
+          "name": "Peach Gel Bronzing Drops",
+          "depth": null,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "gel",
+          "coverage": null,
+          "lab": null,
+          "available": true,
+          "priceDemo": 47,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "n/a (colour product)",
+            "undertoneSource": "n/a (colour product)"
+          },
+          "source": {
+            "shopifyVariantId": 55325383819640,
+            "sku": "UK100301"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 14978844688760,
+        "handle": "peach-gel-bronzing-drops",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "oatmilk-foundation",
+      "title": "Oat Milk Foundation",
+      "brand": "Ere Perez",
+      "category": "foundation",
+      "use": null,
+      "description": "Globally best-selling Oat Milk Foundation: a second-skin, lightweight, buildable formula with a fresh dewy finish. Vegan, with oat milk, peach and vitamin E to help nourish. Suitable for sensitive skin.",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ErePerez-OatMilkFoundation-All-SQ-200011.jpg?v=1762353079",
+      "price": 53,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "oatmilk-foundation-latte",
+          "name": "Latte",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Latte_04a65b11-38a0-4aea-9bc6-76c239bd4fcf.png?v=1725440415",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739006918894,
+            "sku": "EP053"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-honey",
+          "name": "Honey",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Honey.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739006951662,
+            "sku": "EP054"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-malt",
+          "name": "Malt",
+          "depth": 4,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Malt_4455ee7c-347c-4995-88ff-73e7ae6111aa.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739006984430,
+            "sku": "EP055"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-chai",
+          "name": "Chai",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Chai.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739007017198,
+            "sku": "EP056"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-vienna",
+          "name": "Vienna",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Vienna.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739007049966,
+            "sku": "EP061"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-maple",
+          "name": "Maple",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Maple_3_f6488c74-592f-4648-b385-460d94a5adb5.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739007082734,
+            "sku": "EP057"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-pecan",
+          "name": "Pecan",
+          "depth": 7,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ErePerez-OatMilkFoundation-Pecan-SQ-20002.jpg?v=1762352993",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55350497673592,
+            "sku": "UK100058b"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-nougat",
+          "name": "Nougat",
+          "depth": 4,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Nougat_f5dfaedc-9d87-42a8-86e1-48a859b28d46.png?v=1776960249",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55538566955384,
+            "sku": null
+          }
+        },
+        {
+          "id": "oatmilk-foundation-caramel",
+          "name": "Caramel",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Caramel.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739007115502,
+            "sku": "EP058"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-brew",
+          "name": "Brew",
+          "depth": 7,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Brew_2.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739007148270,
+            "sku": "EP059"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-syrup",
+          "name": "Syrup",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/ErePerez-OatMilkFoundation-Syrup-SQ-20003.jpg?v=1762353065",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 55350497706360,
+            "sku": "UK100059b"
+          }
+        },
+        {
+          "id": "oatmilk-foundation-mocha",
+          "name": "Mocha",
+          "depth": 9,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "light",
+          "lab": null,
+          "available": true,
+          "priceDemo": 53,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Oat_Milk_Foundation_-_Mocha_3.png?v=1762353079",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-name keyword",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 45739007181038,
+            "sku": "EP060"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 7855344124142,
+        "handle": "oat-milk-foundation-latte",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "lychee-corrector",
+      "title": "Lychee Crème Corrector",
+      "brand": "Ere Perez",
+      "category": "concealer",
+      "use": null,
+      "description": "Creamy, high-pigment corrector for under-eyes and face. Neutralises discolouration and evens the look of skin tone with a naturally illuminated, creaseless finish. Hydrating, with lychee plus vitamins E and C.",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/LycheeCreamCorrector_2.png?v=1724407485",
+      "price": 43,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "lychee-corrector-uno",
+          "name": "Uno",
+          "depth": 1,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 43,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lychee_Cream_Corrector_Uno_6.png?v=1724407622",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 44468879360238,
+            "sku": "EP042"
+          }
+        },
+        {
+          "id": "lychee-corrector-dos",
+          "name": "Dos",
+          "depth": 3,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 43,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lychee_Cream_Corrector_Dos_5.png?v=1724407642",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 44468879393006,
+            "sku": "EP043"
+          }
+        },
+        {
+          "id": "lychee-corrector-tres",
+          "name": "Tres",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 43,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lychee_Cream_Corrector_Tres_5.png?v=1724407655",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 44468879425774,
+            "sku": "EP044"
+          }
+        },
+        {
+          "id": "lychee-corrector-cuatro",
+          "name": "Cuatro",
+          "depth": 6,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 43,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lychee_Cream_Corrector_Cuatro_5.png?v=1724407669",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 44468879458542,
+            "sku": "EP045"
+          }
+        },
+        {
+          "id": "lychee-corrector-cinco",
+          "name": "Cinco",
+          "depth": 8,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 43,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lychee_Cream_Corrector_-_Cinco_5.png?v=1724407683",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 44468879491310,
+            "sku": "EP046"
+          }
+        },
+        {
+          "id": "lychee-corrector-seis",
+          "name": "Seis",
+          "depth": 10,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "medium",
+          "lab": null,
+          "available": true,
+          "priceDemo": 43,
+          "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/Lychee_Cream_Corrector_-_Seis_6.png?v=1724407695",
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 44468879524078,
+            "sku": "EP047"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 8180210434286,
+        "handle": "lychee-creme-corrector-various-shades",
+        "store": "amelianour.co.uk"
+      }
+    },
+    {
+      "id": "oskia-nutribronze-tint",
+      "title": "Nutri-Bronze Adaptive Sheer Tinted Serum",
+      "brand": "OSKIA",
+      "category": "skin-tint",
+      "use": null,
+      "description": "A hybrid of bronzer and youth-supporting serum. Adaptive Tone mineral pigments harmonise with the skin's melanin for a natural-looking, sheer tint that suits all tones, with bakuchiol, hyaluronic acid, vitamin E and niacinamide.",
+      "image": "https://cdn.shopify.com/s/files/1/0045/1788/8093/files/NutriBronze.png?v=1724752396",
+      "price": 67,
+      "currency": "GBP",
+      "demo": true,
+      "shades": [
+        {
+          "id": "oskia-nutribronze-tint-adaptive",
+          "name": "Adaptive",
+          "depth": 5,
+          "undertone": null,
+          "undertoneLean": null,
+          "finish": "radiant",
+          "coverage": "sheer",
+          "lab": null,
+          "available": true,
+          "priceDemo": 67,
+          "image": null,
+          "metadata": {
+            "tentative": true,
+            "depthSource": "shade-order (ordinal)",
+            "undertoneSource": "unknown"
+          },
+          "source": {
+            "shopifyVariantId": 32281501925469,
+            "sku": "OSK014"
+          }
+        }
+      ],
+      "source": {
+        "shopifyProductId": 4637506273373,
+        "handle": "nutri-bronze-adaptive-sheer-tinted-serum",
+        "store": "amelianour.co.uk"
+      }
+    }
+  ]
+}
